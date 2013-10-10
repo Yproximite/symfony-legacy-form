@@ -1,0 +1,14 @@
+{
+    "name": "yproximite/symfony-legacy-form",
+    "description": "Legacy Symfony Form Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dantleech",
+            "email": "dan.t.leech@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
